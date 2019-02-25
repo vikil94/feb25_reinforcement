@@ -13,5 +13,5 @@ def draw_shape(options):
 your_code_goes_here = {'cols': 4, 'rows': 4, 'char': '*'}
 print(draw_shape(your_code_goes_here))
 
-your_code_goes_here = {'cols': 4, 'rows': 4, 'char': '0'}
+your_code_goes_here = {'cols': 9, 'rows': 4, 'char': '0'}
 print(draw_shape(your_code_goes_here))
